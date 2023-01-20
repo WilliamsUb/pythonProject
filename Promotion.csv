@@ -1,0 +1,12 @@
+promotion_key,promotion_name,price_reduction_type,ad_type,display_type,coupon_type,ad_media_type,display_provider,promo_cost,promo_begin_date,promo_end_date
+1,Blue Ribbon Discounts,Temporary,Daily Paper,None,None,Paper,None,2000,01/10/1994,15/10/1994
+2,Red Carpet Closeout,Markdown,Sunday Paper,None,None,Paper,None,1000,01/10/1995,15/10/1995
+3,Ad Blitz,None,Paper and Radio,None,None,Paper and Radio,None,7000,10/11/1994,17/11/1994
+4,Ads and Racks,None,Paper and Radio,Rack,None,Paper and Radio,Smith,3000,11/11/1995,18/11/1995
+5,Shelf Talkers,None,None,Shelf Tag,None,None,Jones,500,01/10/1994,31/12/1994
+6,POS Grabbers,None,None,Register,None,None,Smith,600,01/10/1995,31/12/1995
+7,Two for One,Coupon Only,Sunday Paper,None,Paper,Paper,None,1000,15/11/1994,30/11/1994
+8,Cents Off Coupon,Coupon Only,Mailer,None,Mailer,None,None,1000,15/11/1995,30/11/1995
+9,Redemption,Redemption Only,Attached,None,Attached,None,None,5000,01/12/1995,31/12/1995
+10,Big Promo,Temporary,Daily Paper,End Aisle,None,Paper,Smith,8000,15/12/1995,31/12/1995
+11,No Promotion,None,None,None,None,None,None,0,01/10/1994,31/12/1995

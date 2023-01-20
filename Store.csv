@@ -1,0 +1,21 @@
+store_key,name,store_number,store_street_address,city,store_county,store_state,store_zip,sales_district,sales_region,store_manager,store_phone,store_FAX,floor_plan_type,photo_processing_type,finance_services_type,first_opened_date,last_remodel_date,store_sqft,grocery_sqft,frozen_sqft,meat_sqft
+1,Store No. 1,1,999 Main Street,New York,New York,NY,91089,New York,Eastern,Jones,(164) 187-7451,(774) 240-5864,Modern,None,None,09/01/1982,05/12/1990,23593,17474.98975,3670.806151,2447.204101
+2,Store No. 2,2,73 Main Street,Chicago,Cook,IL,14594,Cook,Mid West,Smith,(952) 347-1477,(410) 820-1263,Original,Full,ATM,02/04/1970,04/06/1973,28206,22271.15057,3560.909655,2373.93977
+3,Store No. 3,3,1 Main Street,Atlanta,Fulton,GA,54315,Fulton,South East,Davis,(249) 418-8041,(589) 502-2586,Compact,Drop Off,ATM,14/06/1959,19/11/1967,39696,24389.92139,9183.647165,6122.431443
+4,Store No. 4,4,575 Main Street,Los Angeles,Los Angeles,CA,52944,Los Angeles,Pacific,Johnson,(676) 380-5584,(707) 829-2756,Modern,Kiosk,ATM,27/09/1979,01/12/1988,23759,16844.44084,4148.735498,2765.823666
+5,Store No. 5,5,123 Main Street,San Francisco,San Francisco,CA,86969,San Francisco,Pacific,Green,(791) 157-7387,(796) 504-6104,Original,None,ATM,18/09/1978,29/06/1991,24597,15011.51218,5751.29269,3834.195127
+6,Store No. 6,6,353 Main Street,Philadelphia,Philadelphia,PA,51458,Philadelphia,Eastern,Brown,(391) 693-2690,(188) 354-4634,Compact,Full,ATM,28/06/1969,30/08/1975,38382,30350.71487,4818.771077,3212.514051
+7,Store No. 7,7,839 Main Street,Pittsburgh,Allegheny,PA,91949,Allegheny,Eastern,White,(845) 759-9011,(814) 291-1338,Modern,Drop Off,ATM,21/05/1971,20/10/1981,23598,14210.37803,5632.573185,3755.04879
+8,Store No. 8,8,651 Main Street,New Orleans,Orleans,LA,61163,Orleans,South West,Williams,(464) 847-3460,(958) 941-5925,Original,Kiosk,ATM,23/09/1958,18/11/1967,30797,20141.20296,6393.478222,4262.318815
+9,Store No. 9,9,912 Main Street,Seattle,King,WA,5764,King,Pacific,Stuber,(189) 237-3436,(726) 637-6282,Compact,None,ATM,18/03/1955,07/06/1959,36509,22450.0263,8435.384218,5623.589479
+10,Store No. 10,10,752 Main Street,Dallas,Dallas,TX,34876,Dallas,South West,Merz,(609) 767-6331,(386) 463-1875,Modern,Full,ATM,13/04/1969,30/01/1982,34791,26354.01752,5062.18949,3374.792994
+11,Store No. 11,11,55 Main Street,Cincinnati,Hamilton,OH,44999,Hamilton,Mid West,Erickson,(793) 462-4871,(674) 600-5986,Original,Drop Off,ATM,17/09/1976,15/05/1982,20319,16231.74569,2452.352586,1634.901724
+12,Store No. 12,12,546 Main Street,Minneapolis,Hennepin,MN,57554,Hennepin,Mid West,Kalman,(689) 796-3474,(522) 334-2333,Compact,Kiosk,None,25/03/1968,18/12/1973,30584,21938.00091,5187.599456,3458.399637
+13,Store No. 13,13,578 Main Street,Louisville,Jefferson,KY,60041,Jefferson,Mid West,Inmon,(401) 623-9815,(192) 932-4669,Modern,None,ATM,13/04/1957,10/11/1967,27694,18669.78426,5414.529447,3609.686298
+14,Store No. 14,14,968 Main Street,Phoenix,Maricopa,AZ,86844,Maricopa,Mountain,Strehlo,(302) 466-2136,(720) 101-2629,Original,Full,ATM,24/11/1957,07/01/1958,22478,15320.95053,4294.229679,2862.819786
+15,Store No. 15,15,228 Main Street,Denver,Denver,CO,21488,Denver,Mountain,Ollom,(818) 481-2585,(956) 162-2386,Compact,Drop Off,Platform,24/07/1969,19/10/1973,21215,13305.46307,4745.722156,3163.814771
+16,Store No. 16,16,333 Main Street,St. Louis,St. Louis,MO,64373,St. Louis,Mid West,Mantle,(157) 699-8697,(818) 840-3317,Modern,Kiosk,Platform,23/08/1974,13/07/1977,30268,22062.86734,4923.079599,3282.053066
+17,Store No. 17,17,764 Main Street,Washington,DC,DC,36161,DC,Mid Atlantic,Mays,(443) 710-1457,(890) 459-8884,Original,None,Platform,30/05/1970,23/06/1976,33858,22123.34541,7040.792753,4693.861835
+18,Store No. 18,18,253 Main Street,Miami,Dade,FL,67141,Dade,South East,Maris,(957) 831-1703,(640) 578-9149,Compact,Full,ATM,03/01/1981,13/03/1983,23688,15336.75317,5010.748098,3340.498732
+19,Store No. 19,19,999 Main Street,Boston,Suffolk,MA,19552,Suffolk,Eastern,Ruth,(478) 856-5507,(688) 547-7603,Modern,Drop Off,ATM,27/03/1977,25/10/1990,23112,16417.97375,4016.415752,2677.610501
+20,Store No. 20,20,160 Main Street,Nashville,Davidson,TN,44859,Davidson,Mid West,Cobb,(454) 131-3793,(560) 502-3386,Original,Kiosk,ATM,06/02/1980,09/04/1980,34452,27463.35398,4193.187612,2795.458408
